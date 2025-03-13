@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/itishermann.me.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "55.52%",
-    "uptimeDay": "55.52%",
-    "uptimeWeek": "55.52%",
-    "uptimeMonth": "55.52%",
-    "uptimeYear": "55.52%",
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
     "time": 385,
     "timeDay": 385,
     "timeWeek": 385,
     "timeMonth": 385,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-03-13": 167
+      "2025-03-13": 485
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-03-13": 376
+      "2025-03-13": 490
     }
   },
   {
@@ -152,12 +152,12 @@
     "url": "https://play-pulse-server.itishermann.me/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/play-pulse-server.itishermann.me.ico",
     "slug": "play-pulse-server",
-    "status": "up",
-    "uptime": "49.25%",
-    "uptimeDay": "49.25%",
-    "uptimeWeek": "49.25%",
-    "uptimeMonth": "49.25%",
-    "uptimeYear": "49.25%",
+    "status": "down",
+    "uptime": "60.99%",
+    "uptimeDay": "60.99%",
+    "uptimeWeek": "60.99%",
+    "uptimeMonth": "60.99%",
+    "uptimeYear": "60.99%",
     "time": 353,
     "timeDay": 353,
     "timeWeek": 353,

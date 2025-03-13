@@ -30,7 +30,7 @@ status-website:
   cname: uptime.itishermann.me
   # baseUrl: /your-repo-name
   logoUrl: https://static.itishermann.me/images/logo/white.svg
-  theme: dark
+  theme: night
   name: Uptime Monitor - itishermann
   introTitle: itishermann's Uptime Monitor
   introMessage: "The status of my websites and services is monitored here. If there are any interruptions, a note will be posted here."

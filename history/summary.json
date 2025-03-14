@@ -52,7 +52,7 @@
     "timeMonth": 344,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-03-14": 441,
+      "2025-03-14": 450,
       "2025-03-13": 700
     }
   },
@@ -145,7 +145,7 @@
     "timeMonth": 232,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-03-14": 441,
+      "2025-03-14": 450,
       "2025-03-13": 705
     }
   },
@@ -154,19 +154,19 @@
     "url": "https://play-pulse-server.itishermann.me/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/play-pulse-server.itishermann.me.ico",
     "slug": "play-pulse-server",
-    "status": "down",
-    "uptime": "61.09%",
-    "uptimeDay": "61.09%",
-    "uptimeWeek": "61.09%",
-    "uptimeMonth": "61.09%",
-    "uptimeYear": "61.09%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "status": "up",
+    "uptime": "60.60%",
+    "uptimeDay": "60.60%",
+    "uptimeWeek": "60.60%",
+    "uptimeMonth": "60.60%",
+    "uptimeYear": "60.60%",
+    "time": 358,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-03-14": 255,
+      "2025-03-14": 264,
       "2025-03-13": 191
     }
   },

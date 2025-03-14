@@ -7,8 +7,8 @@ sites:
     url: https://10k-steps.itishermann.me
   - name: Coolify
     url: https://coolify.itishermann.me
-  #- name: Blog
-    #url: https://itishermann.me
+  - name: Blog
+    url: https://itishermann.me
   - name: Invoice Self
     url: https://invoiceshelf.itishermann.me
   - name: Log To
@@ -21,7 +21,7 @@ sites:
     url: https://play-pulse.itishermann.me
   - name: Play Pulse (Server)
     url: https://play-pulse-server.itishermann.me/actuator/health
-    maxResponseTime: 90000
+    maxResponseTime: 300000
   - name: Turbo cache
     url: https://turbo.itishermann.me
 

@@ -7,8 +7,9 @@ sites:
     url: https://10k-steps.itishermann.me
   - name: Coolify
     url: https://coolify.itishermann.me
-  - name: Blog
-    url: https://itishermann.me
+#    Disabled because Hashnode doesn't allow to ping the server
+#  - name: Blog
+#    url: https://itishermann.me
   - name: Invoice Self
     url: https://invoiceshelf.itishermann.me
   - name: Log To
@@ -19,9 +20,9 @@ sites:
     url: https://mediation-immobiliere.com
   - name: Play Pulse (Client)
     url: https://play-pulse.itishermann.me
-  - name: Play Pulse (Server)
-    url: https://play-pulse-server.itishermann.me/actuator/health
-    maxResponseTime: 300000
+#    Disabled because of the server being shut down when not used
+#  - name: Play Pulse (Server)
+#    url: https://play-pulse-server.itishermann.me/actuator/health
   - name: Turbo cache
     url: https://turbo.itishermann.me
 

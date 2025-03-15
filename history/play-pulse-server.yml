@@ -1,7 +1,7 @@
-url: https://play-pulse-server.itishermann.me
+url: https://play-pulse-server.itishermann.me/actuator/health
 status: down
-code: 401
-responseTime: 261
-lastUpdated: 2025-03-13T12:26:28.076Z
+code: 0
+responseTime: 0
+lastUpdated: 2025-03-15T16:40:57.180Z
 startTime: 2025-03-13T12:15:22.467Z
 generator: Upptime <https://github.com/upptime/upptime>

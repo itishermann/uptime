@@ -21,6 +21,7 @@ sites:
     url: https://play-pulse.itishermann.me
   - name: Play Pulse (Server)
     url: https://play-pulse-server.itishermann.me/actuator/health
+    maxResponseTime: 300000
   - name: Turbo cache
     url: https://turbo.itishermann.me
 

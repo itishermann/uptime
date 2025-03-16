@@ -25,6 +25,10 @@ sites:
 #    url: https://play-pulse-server.itishermann.me/actuator/health
   - name: Turbo cache
     url: https://turbo.itishermann.me
+  - name: Kaptaain (client)
+    url: https://app.kaptaain.com/api/health
+  - name: Kaptaain (server)
+    url: https://api.kaptaain.com/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

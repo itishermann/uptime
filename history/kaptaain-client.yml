@@ -1,7 +1,7 @@
 url: https://app.kaptaain.com/api/health
-status: up
-code: 200
-responseTime: 535
-lastUpdated: 2025-03-19T23:14:02.393Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-03-20T06:54:12.282Z
 startTime: 2025-03-16T11:47:04.291Z
 generator: Upptime <https://github.com/upptime/upptime>

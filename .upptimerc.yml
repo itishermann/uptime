@@ -5,15 +5,15 @@ repo: uptime # The name of this repository
 sites:
   - name: 10k-steps
     url: https://10k-steps.itishermann.me
-  - name: Coolify
-    url: https://coolify.itishermann.me
+  - name: Dokploy
+    url: https://dokploy.itishermann.me
 #    Disabled because Hashnode doesn't allow to ping the server
 #  - name: Blog
 #    url: https://itishermann.me
-  - name: Invoice Self
-    url: https://invoiceshelf.itishermann.me
+  - name: InvoiceNinja
+    url: https://invoiceninja.itishermann.me
   - name: Log To
-    url: https://log-to.itishermann.me
+    url: https://auth.itishermann.me
   - name: Log to admin
     url: https://log-to-admin.itishermann.me
   - name: Mediation Immobilière

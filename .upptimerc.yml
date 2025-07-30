@@ -15,7 +15,7 @@ sites:
   - name: Log To
     url: https://auth.itishermann.me
   - name: Log to admin
-    url: https://log-to-admin.itishermann.me
+    url: https://logto.itishermann.me
   - name: Mediation Immobilière
     url: https://mediation-immobiliere.com
   - name: Play Pulse (Client)

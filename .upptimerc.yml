@@ -5,6 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: 10k-steps
     url: https://10k-steps.itishermann.me
+    maxResponseTime: 10000
   - name: Dokploy
     url: https://dokploy.itishermann.me
 #    Disabled because Hashnode doesn't allow to ping the server
@@ -20,6 +21,7 @@ sites:
     url: https://mediation-immobiliere.com
   - name: Play Pulse (Client)
     url: https://play-pulse.itishermann.me
+    maxResponseTime: 10000
 #    Disabled because of the server being shut down when not used
 #  - name: Play Pulse (Server)
 #    url: https://play-pulse-server.itishermann.me/actuator/health

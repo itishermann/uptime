@@ -30,19 +30,19 @@
     "url": "https://dokploy.itishermann.me",
     "icon": "https://icons.duckduckgo.com/ip3/dokploy.itishermann.me.ico",
     "slug": "dokploy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 453,
-    "timeWeek": 511,
-    "timeMonth": 513,
-    "timeYear": 517,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 521,
+    "timeDay": 572,
+    "timeWeek": 530,
+    "timeMonth": 519,
+    "timeYear": 521,
     "dailyMinutesDown": {
-      "2025-09-08": 2
+      "2025-09-08": 6
     }
   },
   {

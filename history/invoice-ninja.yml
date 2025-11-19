@@ -1,7 +1,7 @@
 url: https://invoiceninja.itishermann.me
-status: up
-code: 200
-responseTime: 747
-lastUpdated: 2025-11-18T23:13:52.812Z
+status: down
+code: 503
+responseTime: 550
+lastUpdated: 2025-11-19T07:33:05.291Z
 startTime: 2025-07-30T13:55:20.452Z
 generator: Upptime <https://github.com/upptime/upptime>

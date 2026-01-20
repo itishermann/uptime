@@ -1,7 +1,7 @@
 url: https://auth.itishermann.me
-status: up
-code: 200
-responseTime: 556
-lastUpdated: 2026-01-19T23:16:20.788Z
+status: down
+code: 502
+responseTime: 545
+lastUpdated: 2026-01-20T09:43:39.144Z
 startTime: 2025-03-13T12:15:17.516Z
 generator: Upptime <https://github.com/upptime/upptime>

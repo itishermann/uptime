@@ -1,7 +1,7 @@
 url: https://logto.itishermann.me
-status: down
+status: degraded
 code: 502
-responseTime: 586
-lastUpdated: 2026-02-11T23:26:49.311Z
+responseTime: 24989
+lastUpdated: 2026-02-12T17:13:28.252Z
 startTime: 2025-03-13T12:15:18.318Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://auth.itishermann.me
-status: degraded
+status: down
 code: 502
-responseTime: 26659
-lastUpdated: 2026-02-12T15:09:31.880Z
+responseTime: 473
+lastUpdated: 2026-02-12T16:05:28.343Z
 startTime: 2025-03-13T12:15:17.516Z
 generator: Upptime <https://github.com/upptime/upptime>

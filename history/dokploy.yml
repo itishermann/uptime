@@ -1,7 +1,7 @@
 url: https://dokploy.itishermann.me
-status: up
+status: degraded
 code: 200
-responseTime: 645
-lastUpdated: 2026-02-22T23:20:38.476Z
+responseTime: 25769
+lastUpdated: 2026-02-23T20:07:59.916Z
 startTime: 2025-07-30T13:55:19.653Z
 generator: Upptime <https://github.com/upptime/upptime>

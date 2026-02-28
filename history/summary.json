@@ -58,16 +58,16 @@
     "url": "https://invoiceninja.itishermann.me",
     "icon": "https://icons.duckduckgo.com/ip3/invoiceninja.itishermann.me.ico",
     "slug": "invoice-ninja",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "94.23%",
-    "uptimeWeek": "92.78%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "92.77%",
     "uptimeMonth": "95.09%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 781,
-    "timeDay": 470,
-    "timeWeek": 873,
-    "timeMonth": 722,
+    "timeDay": 473,
+    "timeWeek": 863,
+    "timeMonth": 721,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2026-02-28": 83,
@@ -136,8 +136,7 @@
       "2025-12-02": 38,
       "2025-12-01": 28,
       "2025-11-29": 30,
-      "2025-11-28": 21,
-      "2025-11-27": 26
+      "2025-11-28": 21
     }
   },
   {
@@ -157,7 +156,7 @@
     "timeMonth": 1263,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2026-02-28": 1431,
+      "2026-02-28": 1439,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -321,7 +320,7 @@
     "timeMonth": 2853,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2026-02-28": 1431,
+      "2026-02-28": 1439,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -476,17 +475,17 @@
     "url": "https://mediation-immobiliere.com",
     "icon": "https://icons.duckduckgo.com/ip3/mediation-immobiliere.com.ico",
     "slug": "mediation-immobiliere",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "94.23%",
-    "uptimeWeek": "92.78%",
+    "uptimeDay": "94.20%",
+    "uptimeWeek": "92.77%",
     "uptimeMonth": "95.09%",
     "uptimeYear": "99.26%",
-    "time": 743,
-    "timeDay": 620,
-    "timeWeek": 688,
-    "timeMonth": 683,
-    "timeYear": 743,
+    "time": 742,
+    "timeDay": 612,
+    "timeWeek": 683,
+    "timeMonth": 682,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2026-02-28": 83,
       "2026-02-27": 77,
@@ -554,8 +553,7 @@
       "2025-12-02": 38,
       "2025-12-01": 28,
       "2025-11-29": 30,
-      "2025-11-28": 21,
-      "2025-11-27": 26
+      "2025-11-28": 21
     }
   },
   {
@@ -595,17 +593,17 @@
     "url": "https://turbo.itishermann.me",
     "icon": "https://icons.duckduckgo.com/ip3/turbo.itishermann.me.ico",
     "slug": "turbo-cache",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "94.22%",
+    "uptimeDay": "94.20%",
     "uptimeWeek": "92.77%",
     "uptimeMonth": "94.96%",
     "uptimeYear": "99.25%",
-    "time": 953,
-    "timeDay": 744,
-    "timeWeek": 1248,
-    "timeMonth": 1122,
-    "timeYear": 953,
+    "time": 952,
+    "timeDay": 726,
+    "timeWeek": 1227,
+    "timeMonth": 1118,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2026-02-28": 83,
       "2026-02-27": 78,
@@ -672,8 +670,7 @@
       "2025-12-03": 27,
       "2025-12-02": 38,
       "2025-12-01": 28,
-      "2025-11-29": 31,
-      "2025-11-28": 21
+      "2025-11-29": 31
     }
   },
   {
@@ -714,7 +711,7 @@
     "timeMonth": 662,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2026-02-28": 1431,
+      "2026-02-28": 1439,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,

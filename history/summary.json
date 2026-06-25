@@ -60,11 +60,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/invoiceninja.itishermann.me.ico",
     "slug": "invoice-ninja",
     "status": "down",
-    "uptime": "97.65%",
-    "uptimeDay": "92.17%",
+    "uptime": "97.64%",
+    "uptimeDay": "90.14%",
     "uptimeWeek": "82.88%",
-    "uptimeMonth": "83.60%",
-    "uptimeYear": "97.65%",
+    "uptimeMonth": "83.53%",
+    "uptimeYear": "97.64%",
     "time": 824,
     "timeDay": 752,
     "timeWeek": 872,
@@ -128,7 +128,7 @@
       "2026-06-22": 280,
       "2026-06-24": 121,
       "2026-06-23": 48,
-      "2026-06-25": 1
+      "2026-06-25": 31
     }
   },
   {
@@ -137,7 +137,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.itishermann.me.ico",
     "slug": "log-to",
     "status": "down",
-    "uptime": "45.39%",
+    "uptime": "45.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -185,7 +185,7 @@
       "2025-06-26": 1440,
       "2025-10-09": 42,
       "2025-11-18": 38,
-      "2026-06-25": 91,
+      "2026-06-25": 121,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -350,7 +350,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logto.itishermann.me.ico",
     "slug": "log-to-admin",
     "status": "down",
-    "uptime": "45.38%",
+    "uptime": "45.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -401,7 +401,7 @@
       "2025-10-09": 42,
       "2025-11-18": 46,
       "2025-11-24": 23,
-      "2026-06-25": 91,
+      "2026-06-25": 121,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -566,10 +566,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/mediation-immobiliere.com.ico",
     "slug": "mediation-immobiliere",
     "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "92.22%",
+    "uptime": "98.36%",
+    "uptimeDay": "90.19%",
     "uptimeWeek": "82.90%",
-    "uptimeMonth": "83.62%",
+    "uptimeMonth": "83.55%",
     "uptimeYear": "97.90%",
     "time": 731,
     "timeDay": 617,
@@ -634,7 +634,7 @@
       "2026-06-22": 281,
       "2026-06-24": 122,
       "2026-06-23": 48,
-      "2026-06-25": 1
+      "2026-06-25": 30
     }
   },
   {
@@ -674,9 +674,9 @@
     "slug": "turbo-cache",
     "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "92.24%",
+    "uptimeDay": "90.21%",
     "uptimeWeek": "82.92%",
-    "uptimeMonth": "83.63%",
+    "uptimeMonth": "83.57%",
     "uptimeYear": "97.89%",
     "time": 1102,
     "timeDay": 2006,
@@ -741,7 +741,7 @@
       "2026-06-22": 281,
       "2026-06-24": 122,
       "2026-06-23": 48,
-      "2026-06-25": 1
+      "2026-06-25": 30
     }
   },
   {
@@ -774,7 +774,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.99%",
+    "uptimeYear": "56.98%",
     "time": 621,
     "timeDay": 381,
     "timeWeek": 462,
@@ -782,7 +782,7 @@
     "timeYear": 618,
     "dailyMinutesDown": {
       "2026-01-18": 428,
-      "2026-06-25": 92,
+      "2026-06-25": 121,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,

@@ -13,7 +13,7 @@
     "time": 234,
     "timeDay": 228,
     "timeWeek": 204,
-    "timeMonth": 193,
+    "timeMonth": 191,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2025-07-28": 34,
@@ -43,7 +43,7 @@
     "time": 707,
     "timeDay": 520,
     "timeWeek": 504,
-    "timeMonth": 461,
+    "timeMonth": 464,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2025-10-09": 25,
@@ -60,15 +60,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/invoiceninja.itishermann.me.ico",
     "slug": "invoice-ninja",
     "status": "down",
-    "uptime": "97.41%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "92.04%",
+    "uptime": "97.40%",
+    "uptimeDay": "91.71%",
+    "uptimeWeek": "91.39%",
     "uptimeMonth": "87.71%",
-    "uptimeYear": "97.41%",
+    "uptimeYear": "97.40%",
     "time": 831,
     "timeDay": 756,
     "timeWeek": 991,
-    "timeMonth": 898,
+    "timeMonth": 903,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2026-04-04": 34,
@@ -127,7 +127,7 @@
       "2026-07-15": 287,
       "2026-07-16": 64,
       "2026-07-17": 53,
-      "2026-07-18": 1
+      "2026-07-18": 67
     }
   },
   {
@@ -136,7 +136,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.itishermann.me.ico",
     "slug": "log-to",
     "status": "down",
-    "uptime": "43.27%",
+    "uptime": "43.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -144,7 +144,7 @@
     "time": 713,
     "timeDay": 130,
     "timeWeek": 278,
-    "timeMonth": 300,
+    "timeMonth": 306,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2025-07-30": 835,
@@ -161,7 +161,7 @@
       "2025-07-19": 1440,
       "2025-10-09": 42,
       "2025-11-18": 38,
-      "2026-07-18": 10,
+      "2026-07-18": 75,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -349,7 +349,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logto.itishermann.me.ico",
     "slug": "log-to-admin",
     "status": "down",
-    "uptime": "43.26%",
+    "uptime": "43.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -357,7 +357,7 @@
     "time": 800,
     "timeDay": 339,
     "timeWeek": 337,
-    "timeMonth": 357,
+    "timeMonth": 359,
     "timeYear": 932,
     "dailyMinutesDown": {
       "2025-07-30": 837,
@@ -377,7 +377,7 @@
       "2025-10-09": 42,
       "2025-11-18": 46,
       "2025-11-24": 23,
-      "2026-07-18": 10,
+      "2026-07-18": 75,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -565,15 +565,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mediation-immobiliere.com.ico",
     "slug": "mediation-immobiliere",
     "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "92.06%",
+    "uptime": "98.14%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "91.41%",
     "uptimeMonth": "87.73%",
-    "uptimeYear": "97.50%",
+    "uptimeYear": "97.49%",
     "time": 733,
     "timeDay": 1771,
     "timeWeek": 855,
-    "timeMonth": 703,
+    "timeMonth": 707,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2026-04-04": 34,
@@ -632,7 +632,7 @@
       "2026-07-15": 286,
       "2026-07-16": 64,
       "2026-07-17": 52,
-      "2026-07-18": 1
+      "2026-07-18": 66
     }
   },
   {
@@ -649,7 +649,7 @@
     "time": 194,
     "timeDay": 328,
     "timeWeek": 203,
-    "timeMonth": 203,
+    "timeMonth": 201,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-07-28": 34,
@@ -671,15 +671,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/turbo.itishermann.me.ico",
     "slug": "turbo-cache",
     "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "92.08%",
+    "uptime": "98.14%",
+    "uptimeDay": "91.79%",
+    "uptimeWeek": "91.43%",
     "uptimeMonth": "87.75%",
-    "uptimeYear": "97.51%",
+    "uptimeYear": "97.49%",
     "time": 1158,
     "timeDay": 1842,
     "timeWeek": 1969,
-    "timeMonth": 1822,
+    "timeMonth": 1835,
     "timeYear": 1214,
     "dailyMinutesDown": {
       "2026-04-04": 34,
@@ -738,7 +738,7 @@
       "2026-07-15": 286,
       "2026-07-16": 64,
       "2026-07-17": 52,
-      "2026-07-18": 1
+      "2026-07-18": 66
     }
   },
   {
@@ -755,7 +755,7 @@
     "time": 628,
     "timeDay": 550,
     "timeWeek": 571,
-    "timeMonth": 596,
+    "timeMonth": 600,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2026-01-18": 328
@@ -767,19 +767,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kaptaain.com.ico",
     "slug": "kaptaain-server",
     "status": "down",
-    "uptime": "63.17%",
+    "uptime": "63.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.70%",
+    "uptimeYear": "50.69%",
     "time": 613,
     "timeDay": 324,
     "timeWeek": 432,
-    "timeMonth": 458,
+    "timeMonth": 462,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2026-01-18": 428,
-      "2026-07-18": 10,
+      "2026-07-18": 75,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,

@@ -1,7 +1,7 @@
 url: https://mediation-immobiliere.com
-status: up
-code: 200
-responseTime: 1000
-lastUpdated: 2026-07-20T23:53:14.142Z
+status: down
+code: 503
+responseTime: 407
+lastUpdated: 2026-07-21T10:51:52.478Z
 startTime: 2025-03-13T12:15:19.125Z
 generator: Upptime <https://github.com/upptime/upptime>

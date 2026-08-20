@@ -1,7 +1,7 @@
 url: https://turbo.itishermann.me
-status: up
-code: 200
-responseTime: 1295
-lastUpdated: 2026-08-19T23:17:54.985Z
+status: down
+code: 503
+responseTime: 620
+lastUpdated: 2026-08-20T21:26:56.003Z
 startTime: 2025-03-13T12:15:25.485Z
 generator: Upptime <https://github.com/upptime/upptime>
